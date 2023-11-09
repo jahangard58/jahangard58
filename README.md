@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 <div id="skills">
   <h2>Skills</h2>
   <ul>
+     <li>Csharp</li>
     <li>ASP.NETCore</li>
     <li>SqlServer</li>
+    <li>MongoDB</li>
     <li>StimulSoftReport</li>
-    <li>Csharp</li>
-  </ul>
+ </ul>
 </div>
