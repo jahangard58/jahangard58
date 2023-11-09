@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="sqlserver" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="100" height="100" />
   <img alt="MongoDb" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img  alt="DotNet" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img  alt="NetCore" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
  
 </p>
 
