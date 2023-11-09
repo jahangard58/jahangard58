@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ali Jahangard 👋
 
 <!--
 **jahangard58/jahangard58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+ <a href="https://linkedin.com/in/ali-jahangard-355929224/" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
+ </a>
+</p>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="100" height="100" />
@@ -25,9 +29,9 @@ Here are some ideas to get you started:
 <div id="skills">
   <h2>Skills</h2>
   <ul>
-    <li>[your first skill]</li>
-    <li>[your second skill]</li>
-    <li>[your third skill]</li>
-    <li>[your fourth skill]</li>
+    <li>ASP.NETCore</li>
+    <li>SqlServer</li>
+    <li>StimulSoftReport</li>
+    <li>Csharp</li>
   </ul>
 </div>
