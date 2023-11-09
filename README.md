@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
- <a href="https://linkedin.com/in/ali-jahangard-355929224/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
- </a>
-</p>
+
 
 ---
   ### :hammer_and_wrench:Professional skills 
@@ -48,5 +44,11 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=jahangard58&theme=tokyonight&show_icons=true" />
-
+</p>
+<p align="center">
+ <a href="https://linkedin.com/in/ali-jahangard-355929224/" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
+ </a>
+</p>
