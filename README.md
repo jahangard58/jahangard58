@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 
-  ###:hammer_and_wrench:Professional skills 
+  ### :hammer_and_wrench:Professional skills 
 
 
 <p align="center"> 
