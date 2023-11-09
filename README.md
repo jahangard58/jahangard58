@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-
+---
   ### :hammer_and_wrench:Professional skills 
 
 
@@ -46,3 +46,6 @@ Here are some ideas to get you started:
     <li>StimulSoftReport</li>
  </ul>
 </div>
+---
+
+### :fire: My Stats :
