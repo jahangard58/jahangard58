@@ -19,6 +19,13 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
  </a>
 </p>
+
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="100" height="100" />
@@ -26,6 +33,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="100" height="100" />
  
 </p>
+
+
+
 <div id="skills">
   <h2>Skills</h2>
   <ul>
