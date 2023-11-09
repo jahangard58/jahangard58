@@ -23,8 +23,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original-wordmark.svg" alt="sqlserver" width="100" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="sqlserver" width="100" height="100" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="100" height="100" />
+ 
 </p>
 <div id="skills">
   <h2>Skills</h2>
