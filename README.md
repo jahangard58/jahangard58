@@ -20,12 +20,9 @@ Here are some ideas to get you started:
  </a>
 </p>
 
-<p align="center"> 
- <strong>
- 
+
   ###:hammer_and_wrench:Professional skills 
-  </strong>
-</p>
+
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100" />
