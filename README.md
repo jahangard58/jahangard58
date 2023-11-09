@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="100" height="100" />
   <img alt="MongoDb" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img  alt="DotNet" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img src="./icons8-microsoft-sql-server-240.svg" >
+  <img src="./icons8-microsoft-sql-server-240.svg" alt="DotNet" height="100" width="100" >
  
 </p>
 
