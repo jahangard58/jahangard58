@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <p align="center"> 
  <strong>
-  Professional skills
-  ### :hammer_and_wrench:  Professional skills :
+ 
+  ###:hammer_and_wrench:Professional skills 
   </strong>
 </p>
 
