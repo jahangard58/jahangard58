@@ -22,14 +22,15 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img alt="Blazor" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
+ 
    <img alt="csharp" width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  />
+    <img alt="Blazor" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
   <img alt="SQL Server" height="100" width="100" src="./icons8-microsoft-sql-server-480.svg"  >
   <img alt="dotnetcore" width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"  />
   <img alt="MongoDb" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img  alt="DotNet" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
    <img alt="redis" width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"  />
- 
+     <img alt="Angular" width="100" height="100" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
  
 </p>
 
