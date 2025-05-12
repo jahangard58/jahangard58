@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img alt="MongoDb" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img  alt="DotNet" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
    <img alt="redis" width="100" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"  />
-     <img alt="Angular" width="100" height="100" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+     <img alt="Angular"  src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
  
 </p>
 
